@@ -193,7 +193,7 @@ Module.expectedDataFileDownloads++;
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 7071208, "filename": "/multimedia.pak"}], "remote_package_size": 7071208, "package_uuid": "005dffe1-0890-4ca4-9ff5-3793ea446c4b"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 6132866, "filename": "/multimedia.pak"}], "remote_package_size": 6132866, "package_uuid": "a8beec82-a9d9-44b2-9771-8d3bcbc01a42"});
 
 })();
 
