@@ -196,7 +196,7 @@ var Module = typeof Module !== 'undefined' ? Module : {};
     }
   
    }
-   loadPackage({"files": [{"start": 0, "audio": 0, "end": 28726619, "filename": "/multimedia.pak"}, {"start": 28726619, "audio": 0, "end": 28727643, "filename": "/data/data"}, {"start": 28727643, "audio": 0, "end": 28728667, "filename": "/data/data.bkp"}], "remote_package_size": 28728667, "package_uuid": "63a4c09a-fafb-4012-87ce-fd013562a395"});
+   loadPackage({"files": [{"start": 0, "audio": 0, "end": 28726619, "filename": "/multimedia.pak"}, {"start": 28726619, "audio": 0, "end": 28727643, "filename": "/data/data"}, {"start": 28727643, "audio": 0, "end": 28728667, "filename": "/data/data.bkp"}], "remote_package_size": 28728667, "package_uuid": "b95754ac-a10c-478c-9d93-28c47b70161c"});
   
   })();
   
